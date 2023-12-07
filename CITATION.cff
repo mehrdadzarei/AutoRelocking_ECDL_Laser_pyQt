@@ -12,7 +12,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-9541-9829'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.10252787
+    value: 
 repository-code: 'https://github.com/mehrdadzarei/AutoRelocking_ECDL_Laser_pyQt'
 abstract: 
 date-released: 2023-12-07
